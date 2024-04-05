@@ -1,0 +1,1 @@
+ALTER TABLE produto AUTO_INCREMENT = 1;
